@@ -49,7 +49,7 @@
                         </div>
                         <!-- Submit Button -->
                         <div class="d-grid gap-2">
-                            <button type="submit" class="btn btn-primary">Update User</button>
+                            <button type="submit" class="btn btn-primary">Upddate User</button>
                         </div>
                     </form>
                 </div>
