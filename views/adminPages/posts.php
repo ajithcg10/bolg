@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-  welcome posts
+  welcome post
 </body>
 </html>
